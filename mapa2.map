@@ -1,0 +1,30 @@
+[nivel1]
+origen = terrenos.png
+mapa=.............
+     .#####..##...
+     .#......#....
+     .#...########
+     .#......#aaaa
+     .#####..#....
+     .....#..#aaaa
+
+[.]
+nombre = pared
+ux = 8
+uy = 6
+muro = no
+bloqueo = no
+
+[#]
+nombre = cesped
+ux = 0
+uy = 0
+muro = si
+bloqueo = si
+
+[a]
+nombre = agua
+ux = 0
+uy = 0
+muro = no
+bloqueo = si
